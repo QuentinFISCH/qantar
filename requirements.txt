@@ -3,3 +3,4 @@ pandas
 scikit-learn
 skrub
 matplotlib
+jupyter-lab
