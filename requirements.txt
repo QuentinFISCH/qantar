@@ -4,3 +4,4 @@ scikit-learn
 skrub
 matplotlib
 jupyter-lab
+ipympl
