@@ -5,3 +5,5 @@ skrub
 matplotlib
 jupyter-lab
 ipympl
+xgboost
+seaborn
