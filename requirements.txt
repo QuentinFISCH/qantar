@@ -7,3 +7,5 @@ jupyter-lab
 ipympl
 xgboost
 seaborn
+torch
+lightning
